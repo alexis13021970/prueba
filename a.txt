@@ -1,0 +1,8 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: A271-C5EA
+
+ Directorio de C:\Users\Alexis Brito\prueba
+
+29/07/2018  15:58                24 Prueba.txt
+               1 archivos             24 bytes
+               0 dirs  815.657.627.648 bytes libres
